@@ -4,7 +4,9 @@ Este repositório contém a parte técnica desenvolvida pela **Equipe 7** para o
 
 ## Notebooks do Jupyter
 
-Os notebooks do **Jupyter** podem ser encontrados na pasta [/Jupyter](Jupyter/). Eles contêm os rascunhos utilizados para fazer a análise dos dados disponibilizados pela equipe da Localiza.
+Os notebooks do **Jupyter** podem ser encontrados na pasta [**/Jupyter**](Jupyter/). Eles contêm os rascunhos utilizados para fazer a análise dos dados disponibilizados pela equipe da Localiza.
+
+Obs.: Os notebooks foram utilizados como bloco de anotações. Os dados/informações e passos não estão ordenados, mas foram adicionados ao repositório para documentar o trabalho e evolução da equipe.
 
 ## Web App Interativo ([Live Demo](https://inspiring-sammet-af7491.netlify.com))
 

@@ -17,6 +17,8 @@ input[type="submit"]{
   padding: 0 20px;
   margin: 10px auto;
   text-indent: 0;
+  height: 52px;
+  line-height: 3;
 }
 #resultado{
   border: 2px solid #000;
@@ -95,4 +97,8 @@ background: #f1f1f1;
 .table.center-align {
   margin: auto;
   max-width: 968px;
+}
+input[name=dailyMileage] {
+  max-width: 768px;
+  margin: auto;
 }
